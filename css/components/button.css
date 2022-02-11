@@ -1,0 +1,17 @@
+.btn-blue{
+	background-color: #169bbb;
+	color: white ;
+	padding: 15px 20px;
+	border-radius: 4px;
+	margin:  40px auto;
+	font-family: 'Bebas Neue', cursive ;
+	
+
+}
+
+.btn-blue:hover{
+	background-color: #7900FF;
+	color: white;
+	font-family: 'Bebas Neue', cursive ;
+	
+}
